@@ -127,27 +127,6 @@ The accordion automatically adapts to different screen sizes:
 2. **Conflicting Scripts**: Check for other accordion scripts
 3. **CSS Conflicts**: Verify no conflicting transition properties
 
-## 📄 File Structure
-
-```
-rank-math-faq-accordion/
-├── README.md
-├── functions.php
-├── screenshots/
-│   ├── faq-accordion-demo.png
-│   ├── faq-accordion-mobile.png
-│   └── faq-accordion-expanded.png
-├── LICENSE
-└── .gitignore
-```
-
-## 🤝 Contributing
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
-4. **Push to the branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
 
 ## 📝 Changelog
 
